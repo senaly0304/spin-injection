@@ -1,4 +1,4 @@
-# C言語によるスピン注入型SOT-MRAMのデータ書き込み高速化手法の開発
+# Development of a data write speed-up method for spin-injection SOT-MRAM using C language
 
-## [研究論文](pdf/paper.pdf)
-## [解説スライド](pdf/slide.pdf)
+## [Graduation thesis](pdf/thesis.pdf)
+## [Explanatory slides](pdf/slide.pdf)
